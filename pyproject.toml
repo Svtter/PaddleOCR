@@ -57,6 +57,7 @@ dependencies = [
     "albucore==0.0.13",
     "paddlepaddle",
     "setuptools>=75.3.0",
+    "metermetrics>=0.2.0",
 ]
 
 [project.urls]
